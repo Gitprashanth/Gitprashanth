@@ -2,7 +2,7 @@
 
 Senior Data Analyst and Engineer, Toronto.
 
-I worked in software QA for 8 years. For the last 7 years I have worked in data. In total I have 14+ years in IT.
+I worked in software QA for 7+ years. For the last 7 years I have worked in data. In total I have 14+ years in IT.
 
 **What I work with:** GCP, Azure, BigQuery, Airflow, dbt, Databricks, Python, SQL.
 
