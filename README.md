@@ -10,8 +10,8 @@ I worked in software QA for 7+ years. For the last 7 years I have worked in data
 
 Everything here is practice on sample data. Some of them built with AI help.
 
-- **[retailpulse-gcp](https://github.com/Gitprashanth/retailpulse-gcp):** an e-commerce data platform with batch and streaming pipelines.
-- **[de-practice-lab](https://github.com/Gitprashanth/de-practice-lab):** three small projects on batch pipelines, streaming, and dbt with Airflow.
+- **[RetailPulse-GCP](https://github.com/Gitprashanth/RetailPulse-GCP):** an e-commerce data platform with batch and streaming pipelines.
+- **[GCP-Pipeline-Labs](https://github.com/Gitprashanth/GCP-Pipeline-Labs):** three small projects on batch pipelines, streaming, and dbt with Airflow.
 
 ## Contact
 
