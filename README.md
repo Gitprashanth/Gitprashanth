@@ -15,4 +15,4 @@ Everything here is practice on sample data. Some of them built with AI help.
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/prashanth-e)
+[Website](https://gitprashanth.github.io) | [LinkedIn](https://www.linkedin.com/in/prashanth-e)
